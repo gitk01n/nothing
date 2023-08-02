@@ -1,7 +1,7 @@
 /*******************************
 [rewrite_local]
 
-^https:\/\/biz-vip\.immomo\.com\/vCenter\/home\/index\?mkVersion=0 script-response-body https://raw.githubusercontent.com/gitk01n/nothing/main/momo.js
+^https:\/\/biz-vip\.immomo\.com\/vCenter\/home\/index\?mkVersion=0 url script-response-body https://raw.githubusercontent.com/gitk01n/nothing/main/momo.js
 
   
 [mitm]
